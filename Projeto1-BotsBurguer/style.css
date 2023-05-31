@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+  }
+  /* Css da header*/
+  .header {
+    background: linear-gradient(
+      90deg,
+      rgba(238, 133, 4, 1) 43%,
+      rgba(2, 0, 36, 1) 84%
+    );
+    text-align: center;
+  }
+  #logo {
+    text-align: center;
+    width: 400px;
+    height: 50px;
+  }
+  ul li {
+    list-style: none;
+    display: inline;
+    padding: 5px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  /*Css da header*/
+  
+  /*Css da main*/
+  img {
+    width: 200px;
+    height: 150px;
+  }
+  
+  section {
+    border: orangered 2px solid;
+    padding: 10px;
+    margin: 50px 10px 50px 10px;
+    display: inline-block;
+    vertical-align: center;
+    text-align: center;
+  }
+  
+  .main {
+    text-align: center;
+    background: linear-gradient(
+      90deg,
+      rgba(238, 133, 4, 1) 43%,
+      rgba(2, 0, 36, 1) 84%
+    );
+  }
+  /*Css da main*/
+  
+  /*Css do footer*/
+  nav {
+    text-align: center;
+    background: linear-gradient(
+      90deg,
+      rgba(238, 133, 4, 1) 43%,
+      rgba(2, 0, 36, 1) 84%
+    );
+  }
+  #zap {
+    width: 50px;
+    height: 50px;
+  }
+  #insta {
+    width: 50px;
+    height: 50px;
+  }
+  #face {
+    width: 50px;
+    height: 50px;
+  }
+  /*Css do footer*/
+  
